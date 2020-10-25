@@ -24,3 +24,5 @@ Tambien aplicaciones de algoritmos de ML como:
 Si te gusta lo que ves y quieres conocer el curso (a ver si te dan el certificado :satisfied: ) te dejo el [link](https://www.udemy.com/share/101r3UAkcZcFlSRXo=/ "link").
 
 ## Diviertete y gracias por visitar mi repo.
+
+PS: En la carpeta del repo te dejo los archivos CSV que se utilizaron por si los necesitas y disculpa si no está comentado como debería, prometo actualizarlo luego...
